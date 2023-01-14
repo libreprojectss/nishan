@@ -1,0 +1,14 @@
+.theme{
+  background-image: url("./test.jpg");
+  background-repeat: no-repeat;
+}
+
+.theme1{
+  background-color: #9acd4c;
+}
+
+.imgur{
+  background-image: url("./tr.jpg");
+  object-fit: cover;
+  background-repeat: no-repeat;
+}
