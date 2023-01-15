@@ -1,14 +1,44 @@
-.theme{
-  background-image: url("./test.jpg");
+.theme {
+  background-image: url("./earth.jpg");
   background-repeat: no-repeat;
+  background-size: cover;
+  filter: brightness(80%);
 }
 
-.theme1{
+.theme1 {
   background-color: #9acd4c;
 }
 
-.imgur{
-  background-image: url("./tr.jpg");
-  object-fit: cover;
+.imgur1 {
+  background-image: url("./fohor.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.imgur2 {
+  background-image: url("./ht.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.imgur3 {
+  background-image: url("./gold.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.im1 {
+  background-image: url("./popi.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.im2 {
+  background-image: url("./pop.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.im3 {
+  background-image: url("./lone.jpg");
+  background-size: cover;
   background-repeat: no-repeat;
 }
